@@ -380,7 +380,7 @@
             this.groupBox4.Location = new System.Drawing.Point(446, 129);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(332, 109);
-            this.groupBox4.TabIndex = 10;
+            this.groupBox4.TabIndex = 12;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Результат работы алгоритма:";
             // 
@@ -394,7 +394,6 @@
             this.textBox6.ReadOnly = true;
             this.textBox6.Size = new System.Drawing.Size(222, 29);
             this.textBox6.TabIndex = 0;
-            this.textBox6.TabStop = false;
             this.textBox6.Text = "Результат";
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -456,7 +455,7 @@
             this.button3.Location = new System.Drawing.Point(521, 248);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(172, 29);
-            this.button3.TabIndex = 12;
+            this.button3.TabIndex = 13;
             this.button3.Text = "Очистка окон";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -467,7 +466,7 @@
             this.button4.Location = new System.Drawing.Point(823, 248);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(172, 29);
-            this.button4.TabIndex = 13;
+            this.button4.TabIndex = 15;
             this.button4.Text = "Выход";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
